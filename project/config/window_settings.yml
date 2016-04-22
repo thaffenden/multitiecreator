@@ -1,0 +1,31 @@
+# Sets values to make the window look a bit prettier.
+
+# Window Details
+# Colour codes are Hex values. They have to be put in single quotes to escape
+# the '#' character which denotes a comment in YAML
+window-size: 880x600
+window-title: Multie Tie
+background-colour: '#496394'
+accent-colour: '#A0BB3C'
+text-colour: '#f8f8ff'
+secondary-colour: '#CDE6F6'
+font-size: 16
+font: Arial
+
+# Image Details
+logo-path: .\images\logo.png
+icon-path: .\images\icon.ico
+
+# Labels
+# Set the text values for different labels
+client-id-input: Client ID Number
+provider-list: Providers
+plan-list: Plan Types
+generate-button: Generate
+clear-button: Clear
+select-all-button: Add All
+move-selection: '>'
+remove-selection: '<'
+x-padding: 8
+y-padding: 5
+
